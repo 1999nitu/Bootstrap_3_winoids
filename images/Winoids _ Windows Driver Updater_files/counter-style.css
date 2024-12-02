@@ -1,0 +1,276 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,900');
+
+
+
+/*font-family: 'Lato', sans-serif;*/
+
+
+
+body {
+
+	margin: auto;
+
+	padding: 0px;
+
+	font-size: 16px;
+
+	color: #757575;
+
+}
+
+
+
+
+
+
+
+
+
+/*count*/
+
+
+
+
+
+/*-=-=-=-=-=-=-=-=-=-=-=- */
+
+/* Column Grids */
+
+/*-=-=-=-=-=-=-=-=-=-=-=- */
+
+
+
+.col_half {
+
+	width: 49%;
+
+}
+
+
+
+.col_third {
+
+	width: 32%;
+
+}
+
+
+
+.col_fourth {
+
+	width: 23%;
+
+}
+
+
+
+.col_fifth {
+
+	width: 18.4%;
+
+}
+
+
+
+.col_sixth {
+
+	width: 15%;
+
+}
+
+
+
+.col_three_fourth {
+
+	width: 74.5%;
+
+}
+
+
+
+.col_twothird {
+
+	width: 66%;
+
+}
+
+
+
+.col_half,
+
+.col_third,
+
+.col_twothird,
+
+.col_fourth,
+
+.col_three_fourth,
+
+.col_fifth {
+
+	position: relative;
+
+	display: inline;
+
+	display: inline-block;
+
+	float: left;
+
+	margin-right: 2%;
+
+	margin-bottom: 20px;
+
+}
+
+
+
+.end {
+
+	margin-right: 0 !important;
+
+}
+
+
+
+/* Column Grids End */
+
+
+
+.wrapper {
+
+    position: relative;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+}
+
+.wrapper .counter.col_fourth {
+
+	margin-right: 0px;
+
+	text-align: center;
+
+	margin: 0;
+
+}
+
+.counter {
+
+	border-radius: 0;
+
+	padding: 5px 0;
+
+}
+
+
+
+.count-title {
+	background: linear-gradient(90deg, #0B7EA6 0%, #0D729E 100%);
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	text-align: center;
+	font-family: Kanit;
+	font-size: 40px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 125%;
+	text-transform: capitalize;
+}
+
+
+
+.count-text {
+
+	color: #132547;
+
+	text-align: center;
+
+	font-family: Kanit;
+
+	font-size: 20px;
+
+	font-style: normal;
+
+	font-weight: 300;
+
+	line-height: 150%;
+
+	text-transform: capitalize;
+
+	margin: 0;
+
+}
+
+
+
+.fa-2x {
+
+	margin: 0 auto;
+
+	float: none;
+
+	display: table;
+
+	color: #4ad1e5;
+
+}
+
+
+
+.col_fourth .timer.count-title.count-number::after {
+
+	content: 'K+';
+
+}
+
+
+
+.hmcount-bg .large-heading{
+
+	margin-bottom: 20px;
+
+}
+
+.col_fourth-3{
+
+	position: relative;
+
+}
+
+.col_fourth-3 .timer.count-title {
+
+	font-size: 0px !important;
+
+}
+
+.col_fourth-3 .timer.count-title::after {
+
+	content: '24/7' !important;
+
+	font-size: 40px;
+
+	top: 0;
+
+	left: 0;
+
+	right: 0;
+
+	z-index: 1;
+
+	line-height: 50px;
+
+}
+
+.col_fourth-4 .timer.count-title::after {
+
+	content: '%' !important;
+
+}
+
+/***help center page end***/
+

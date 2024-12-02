@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="80px" height="80px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 80 80"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:cc="http://creativecommons.org/ns#"
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:svg="http://www.w3.org/2000/svg"
+ xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+ xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+ inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+ sodipodi:docname="Windows XP logo.svg">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil2 {fill:#00B4F1;fill-rule:nonzero}
+    .fil1 {fill:#91C300;fill-rule:nonzero}
+    .fil3 {fill:#F8682C;fill-rule:nonzero}
+    .fil4 {fill:#FFC300;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="80" height="80"/>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1" inkscape:cx="84.558945" inkscape:cy="57.925455" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" units="px" inkscape:showpageshadow="false" inkscape:window-width="1366" inkscape:window-height="705" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" objecttolerance="1" gridtolerance="1"/>
+  <g id="_2146716737744">
+   <path id="path2" class="fil1" d="M79.2 14.95c-15.19,6.28 -22.5,2.75 -29.08,-1.68l-7.5 26c6.58,4.45 14.52,8.12 29.1,1.59l7.48 -25.91z" inkscape:connector-curvature="0"/>
+   <path id="path4" class="fil2" d="M29.8 67.22c-6.6,-4.45 -13.77,-8.1 -29,-1.8l7.46 -26.05c15.23,-6.3 22.55,-2.73 29.14,1.73l-7.6 26.12 0 0z" inkscape:connector-curvature="0"/>
+   <path id="path6" class="fil3" d="M38.67 36.4c-3.97,-2.67 -8.25,-5.17 -14.32,-5.22 -4,-0.03 -8.77,1.11 -14.82,3.61l7.5 -25.98c15.23,-6.29 22.54,-2.73 29.13,1.73l-7.49 25.86z" inkscape:connector-curvature="0"/>
+   <path id="path8" class="fil4" d="M41.36 43.61c6.59,4.44 13.91,7.97 29.12,1.69l-7.5 25.89c-15.21,6.29 -22.52,2.73 -29.1,-1.73l7.48 -25.85z" inkscape:connector-curvature="0"/>
+  </g>
+  <rect class="fil0" width="80" height="80"/>
+ </g>
+</svg>
